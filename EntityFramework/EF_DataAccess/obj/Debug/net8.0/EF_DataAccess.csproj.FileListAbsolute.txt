@@ -1,0 +1,12 @@
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_DataAccess\bin\Debug\net8.0\EF_DataAccess.deps.json
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_DataAccess\bin\Debug\net8.0\EF_DataAccess.dll
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_DataAccess\bin\Debug\net8.0\EF_DataAccess.pdb
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_DataAccess\obj\Debug\net8.0\EF_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_DataAccess\obj\Debug\net8.0\EF_DataAccess.AssemblyInfoInputs.cache
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_DataAccess\obj\Debug\net8.0\EF_DataAccess.AssemblyInfo.cs
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_DataAccess\obj\Debug\net8.0\EF_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_DataAccess\obj\Debug\net8.0\EF_DataAccess.sourcelink.json
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_DataAccess\obj\Debug\net8.0\EF_DataAccess.dll
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_DataAccess\obj\Debug\net8.0\refint\EF_DataAccess.dll
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_DataAccess\obj\Debug\net8.0\EF_DataAccess.pdb
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_DataAccess\obj\Debug\net8.0\ref\EF_DataAccess.dll

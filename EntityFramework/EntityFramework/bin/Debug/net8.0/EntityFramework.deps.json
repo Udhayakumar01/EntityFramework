@@ -7,14 +7,44 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "EntityFramework/1.0.0": {
+        "dependencies": {
+          "EF_DataAccess": "1.0.0",
+          "EF_Model": "1.0.0"
+        },
         "runtime": {
           "EntityFramework.dll": {}
+        }
+      },
+      "EF_DataAccess/1.0.0": {
+        "runtime": {
+          "EF_DataAccess.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "EF_Model/1.0.0": {
+        "runtime": {
+          "EF_Model.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "EntityFramework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EF_DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EF_Model/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

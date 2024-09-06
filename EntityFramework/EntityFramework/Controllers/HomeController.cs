@@ -1,6 +1,6 @@
-using EntityFramework.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using EF_Model.Models;
 
 namespace EntityFramework.Controllers
 {

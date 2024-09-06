@@ -1,0 +1,12 @@
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_Model\bin\Debug\net8.0\EF_Model.deps.json
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_Model\bin\Debug\net8.0\EF_Model.dll
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_Model\bin\Debug\net8.0\EF_Model.pdb
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_Model\obj\Debug\net8.0\EF_Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_Model\obj\Debug\net8.0\EF_Model.AssemblyInfoInputs.cache
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_Model\obj\Debug\net8.0\EF_Model.AssemblyInfo.cs
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_Model\obj\Debug\net8.0\EF_Model.csproj.CoreCompileInputs.cache
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_Model\obj\Debug\net8.0\EF_Model.sourcelink.json
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_Model\obj\Debug\net8.0\EF_Model.dll
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_Model\obj\Debug\net8.0\refint\EF_Model.dll
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_Model\obj\Debug\net8.0\EF_Model.pdb
+C:\Users\theas\source\repos\EntityFramework\EntityFramework\EF_Model\obj\Debug\net8.0\ref\EF_Model.dll
