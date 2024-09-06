@@ -26,16 +26,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\theas\\source\\repos\\EntityFramework\\EntityFramework\\EntityFramework\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "EntityFramework\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\theas\\source\\repos\\EntityFramework\\EntityFramework\\EntityFramework\\Views\\_ViewImports.cshtml*",
-              "RelativeToolTip": "EntityFramework\\Views\\_ViewImports.cshtml*",
+              "ToolTip": "C:\\Users\\theas\\source\\repos\\EntityFramework\\EntityFramework\\EntityFramework\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EntityFramework\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-06T18:08:45.654Z",
@@ -79,10 +83,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T18:06:00.81Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
