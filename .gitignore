@@ -1,3 +1,7 @@
+*.csproj.user
+*.suo
+*.g.*
+*.Designer.cs
 
 EntityFramework/.vs/EntityFramework/FileContentIndex/9034c415-8dfa-4c19-8984-f7f9508a3d32.vsidx
 EntityFramework/.vs/EntityFramework/FileContentIndex/53663198-a9f5-4bd5-a212-a9a1d102daa5.vsidx
