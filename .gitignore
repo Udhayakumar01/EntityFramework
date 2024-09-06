@@ -1,7 +1,0 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/EntityFramework/.vs/ProjectEvaluation/entityframework.metadata.v9.bin
-/EntityFramework/.vs/ProjectEvaluation/entityframework.projects.v9.bin
-/EntityFramework/.vs/ProjectEvaluation/entityframework.strings.v9.bin
