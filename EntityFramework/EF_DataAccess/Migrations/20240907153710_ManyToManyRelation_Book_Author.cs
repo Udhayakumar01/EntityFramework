@@ -34,6 +34,7 @@ namespace EF_DataAccess.Migrations
                         onDelete: ReferentialAction.Cascade);
                 });
 
+
             migrationBuilder.CreateIndex(
                 name: "IX_AuthorBook_BooksId",
                 table: "AuthorBook",
