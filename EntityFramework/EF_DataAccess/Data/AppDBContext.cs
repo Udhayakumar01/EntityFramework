@@ -12,6 +12,7 @@ using EF_Model.Models;
 //If there are multiple context - add-migration name -context ContextName
 //Migration rollback - update-database migrationname
 //To Again come to latest migration just run - update-database
+//Remove-migration => removes the most recently created migration.
 //To get all migrations abd to check if they are applied or not - get-migration
 //drop-database to delete the database
 //Revert
